@@ -10,4 +10,6 @@ Font End to fetch Names
 
 2:- Install required node modules (as per the Package.json).
 
-3:- Run npm start for the directory 
+3:- Run npm start from the directory 
+
+
